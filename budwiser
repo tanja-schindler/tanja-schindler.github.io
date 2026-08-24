@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<!--
+    Plain-Academic by Vasilios Mavroudis
+    Released under the Simplified BSD License/FreeBSD (2-clause) License.
+    https://github.com/mavroudisv/plain-academic
+-->
+
+<html lang="en">
+<head>
+  <title>Tanja I. Schindler</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+
+<!-- Navigation -->
+	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+	  <div class="container">
+		<div class="navbar-header">
+		  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+		</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		  <ul class="nav navbar-nav">
+				  <li><a href="index.html">Home</a></li>
+				  <li><a href="publications.html">Publications and Preprints</a></li>
+				  <li><a href="shortcv.html">Short CV</a></li> 
+				  <li><a href="teaching.html">Teaching</a></li> 
+		  </ul>
+		</div>
+	  </div>
+	</nav>
+  
+  <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+            <!-- Entries Column -->
+            <div class="col-md-8">
+                
+                <div style="margin-top:3%; text-align:justify;">  
+			
+					<h1>BudWiSer seminar series </h1>
+         The Budapest-Vienna seminar is a series of seminars that was originally running between the Dynamical Systems groups of the University of Vienna and BME Budapest. Subsequently, the groups at Institute of Science and Technology Austria (ISTA) and the groups at Jagiellonian University and AGH in Krakow were added. 
+         For the homepages of the other hubs see 
+          <h2>Next Edition </h2>
+  
+
+          <h2>Previous Editions </h2>       
+					<table style="width:100%">
+						<thread>
+							<th style="width:25%"> Time Period </th>
+							<th> Employment </th>
+						</thread>
+						
+						<tbody>
+
+							
+						<tr>
+							<td> 07/2024 - ongoing </td>
+							<td> part time Marie Skłodowska-Curie fellow, Jagiellonian University in Krakow, Poland and part-time lecturer, University of Exeter, United Kingdom</td>
+						</tr>
+						<br>	
+						<tr>
+							<td> 11/2023 - 06/2024 </td>
+							<td> Postdoctoral fellow, Jagiellonian University in Krakow, Poland</td>
+						</tr>
+						<br>
+						<tr>
+							<td> 11/2021 - 10/2023 </td>
+							<td> Senior postdoc, University of Vienna, Austria</td>
+						</tr>
+						<br>		
+						<tr>
+							<td> 10/2019 - 10/2021 </td>
+							<td> Postdoctoral fellow, Centro di Ricerca Matematica Ennio De Giorgi, Pisa, Italy</td>
+						</tr>
+						<tr>
+							<td> 10/2016 - 10/2019 </td>
+							<td> Postdoctoral fellow, Research School of Finance, Actuarial Studies and Statistics, The Australian National University </td>
+						</tr>
+						<tr>
+							<td> 03/2016- 08/2016 </td>
+							<td> Postdoctoral fellow, Bielefeld University, Germany</td>
+						</tr>
+						<tr>
+							<td> 02/2016 </td>
+							<td> Postdoctoral fellow, University of Bremen, Germany</td>
+						</tr>
+						<tr>
+							<td> 04/2012 - 10/2015 </td>
+							<td> PhD in Mathematics, University of Bremen, Germany</td>
+						</tr>
+							
+						<tr>
+							<td> 10/2007 - 11/2011 </td>
+							<td> Diplom in Mathematics (similar to a combined degree of Bachelor and Master of Science), University of Bremen, Germany</td>
+						</tr>
+						</tbody>
+						<tr>
+							<td> 08/2009 - 03/2010 </td>
+							<td> Exchange term (Erasmus), Lund University, Sweden</td>
+						</tr>
+						
+						<tr>
+							<td> 10/2006 - 08/2009 </td>
+							<td> Bachelor of Science in Biology, University of Bremen, Germany</td>
+						</tr>
+					</table>
+
+                </div>
+            </div> 
+
+            <!-- Contact Info on the Sidebar -->
+           <div class="col-md-4">
+                <div style="font-family: 'Oswald', sans-serif; font-size: 32px;"><b>Tanja (Isabelle) Schindler</b></div><br>
+	        <p><b>tanja (dot) schindler (at) uj (dot) edu (dot) pl </b><br>
+                <p>Faculty of Mathematics and Computer Science<br>
+                Jagiellonian University<br>
+                Office 2100<br>
+		ul. Łojasiewicza 6<br>
+                30-348 Krakow<br>
+                Poland<br><br><br></p>
+		<p><b>t (dot) schindler (at) exeter (dot) ac (dot) uk </b><br>
+                <p>Department of Mathematics and Statistics,<br>
+		Harrison Building,<br>
+                University of Exeter,<br>
+                Exeter EX4 4QF,<br>	
+                United Kingdom<br><br><br></p>    
+		<p>I have a guest status at the following address</p>    
+                <b>tanja (dot) schindler (at) univie (dot) ac (dot) at</b><br>
+                <p>Faculty of Mathematics<br>
+                University of Vienna<br>
+                Office 02.136<br>
+		Oskar-Morgenstern-Platz 1<br>
+                1090 Vienna<br>
+                Austria<br>
+                </p>
+            </div>            
+            
+            
+            
+            
+        </div>
+
+
+    </div>
+    <!-- /.container -->
+    
+    <!-- Other people may like it too! -->
+    <a style="color:#b5bec9;font-size:0.8em; float:right;" href="https://github.com/mavroudisv/plain-academic">Plain Academic</a> 
+    
+</body>
+
+</html>
